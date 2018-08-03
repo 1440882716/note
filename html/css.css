@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.list{
+	width: 100px;
+	height: 100px;
+	background-color: pink;
+	transition:  width 2s;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.list:hover{
+	width: 500px;
+}
